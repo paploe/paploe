@@ -2,12 +2,12 @@
 
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/patrick-ploesser/)
+- :telescope: I’m working as a Data Scientist currently combating methane emissions :earth_americas::fire:
+- :mortar_board: My background is in mechanical engineering :wrench: and computer science :computer:
+- :sunny: In my free time, you may find me being active in nature :swimmer: :bicyclist: :runner: or competing in kaggle challenges
+- :mailbox: How to reach me: [<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" height="20" />](https://www.linkedin.com/in/patrick-ploesser/)
 
-
+---
 
 ### :books: Languages :
 <div>
@@ -41,17 +41,10 @@
   <img src="https://spark.apache.org/images/spark-logo-rev.svg" title="Spark" **alt="Spark" width="40" height="40"/>
 </div>
 
-<!--
-**paploe/paploe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :fire: My Stats (private account):
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=paploe&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paploe&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
